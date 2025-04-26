@@ -1,10 +1,7 @@
-- 👋🦊 Hi, I’m @BradyFoxArt
-- 💙 Pronouns: He/Him
-- 👀 I’m interested in Art, Animation, Comics, Character design, Gamedev, Retro computers, Linux/Unix
-- 💻 I’m currently learning GD Script in Godot and studying animation at University
-- 📬 You can reach me @bradyfoxartist on Instagram or @bradyfoxart.bsky.social on Bluesky!
+- 👋🦊 Hiya, I'm Brady! I'm a digital artist, animator, and character designer exploring programming and gamedevelopment!
 
-<!---
-BradyFoxArt/BradyFoxArt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I'm workin' on learning GD Script as well as HTML and CSS! I also want to make some non-gamedev related programming projects!
+- I'm also a huge nerd for vintage Macs and other Apple devices as well as Unix and Linux!
+
+- Please check out my [Instagram](https://www.instagram.com/bradyfoxartist/) and [bluesky](https://bsky.app/profile/bradyfoxart.bsky.social) for the latest of what I'm working on! As well as my [carrd](https://bradyfoxart.carrd.co/#) for my other socials and stuff about me!
+- I'm also working on a personal [nekoweb](https://bradyfoxart.nekoweb.org) site for blog related stuff and as an art and project gallery! 👀
